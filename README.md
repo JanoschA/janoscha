@@ -2,7 +2,7 @@
 
 My name is Janosch Adams and I'm a full-stack software developer with over 10 years of professional experience.
 
-I started by developing online shops, then I developed customer software for insurance/banking/government systems.
+I started my career by developing online shops, then I developed customer software for insurance/banking/government systems.
 
 ## 🔭 I’m currently working on
 I'm developing an application to predict your future gas price.
