@@ -8,7 +8,8 @@ Therefor I created this:
 
 [Backend - Spring Boot](https://github.com/JanoschA/gasprice-calculator) | 
 [Frontend - Angular](https://github.com/JanoschA/gasprice-calculator-web) | 
-[Wiki - Everything you need to know about it](https://github.com/JanoschA/gasprice-calculator/wiki)
+[Wiki - Everything you need to know about it](https://github.com/JanoschA/gasprice-calculator/wiki) | 
+[Project Board](https://github.com/users/JanoschA/projects/1)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
