@@ -1,6 +1,8 @@
 # Welcome 👋
 
-My name is Janosch Adams and I'm a Full-Stack Software Developer from Germany.
+My name is Janosch Adams and I'm a full-stack software developer with over 10 years of professional experience.
+
+I began my carrier to develop online shops, then I moved to develop customer software for insurences/banking/goverment systems.
 
 ## 🔭 I’m currently working on
 I'm developing an application to predict your future gas price.
