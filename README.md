@@ -1,17 +1,14 @@
-# Welcome 👋
+# Hello, I'm Janosch Adams 👋
 
-My name is Janosch Adams and I'm a full-stack software developer with over 10 years of professional experience.
+I'm a full-stack software developer with over 10 years of professional experience. I'm passionate about creating software that makes a difference and always eager to learn new technologies.
 
-I started my career by developing online shops, then I developed customer software for insurance/banking/government systems.
+## 🔭 Current Project
+I'm currently developing an application to predict future gas prices. Here's a brief overview:
 
-## 🔭 I’m currently working on
-I'm developing an application to predict your future gas price.
-Therefor I created this:
-
-[Backend - Spring Boot](https://github.com/JanoschA/gasprice-calculator) | 
-[Frontend - Angular](https://github.com/JanoschA/gasprice-calculator-web) | 
-[Wiki - Everything you need to know about it](https://github.com/JanoschA/gasprice-calculator/wiki) | 
-[Project Board](https://github.com/users/JanoschA/projects/1)
+- [Backend - Spring Boot](https://github.com/JanoschA/gasprice-calculator): This is where all the magic happens. The backend is responsible for fetching and processing data to predict gas prices.
+- [Frontend - Angular](https://github.com/JanoschA/gasprice-calculator-web): The frontend provides a user-friendly interface for users to interact with the application.
+- [Wiki](https://github.com/JanoschA/gasprice-calculator/wiki): Want to know more about the project? The wiki has all the information you need.
+- [Project Board](https://github.com/users/JanoschA/projects/1): Track the progress of the project on the project board.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
@@ -36,6 +33,9 @@ Therefor I created this:
 <a href="https://github.com/JanoschA/JanoschA">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JanoschA&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JanoschA's GitHub Stats" />
 </a>
+
+## 📫 Get in Touch
+I'm always open to new opportunities and collaborations. Feel free to reach out to me on [Imprint](https://gasprice-calculator.com/#/imprint).
 
 ### Legal Notes
 [Imprint](https://gasprice-calculator.com/#/imprint)
