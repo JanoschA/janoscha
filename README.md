@@ -3,12 +3,7 @@
 I'm a full-stack software developer with over 10 years of professional experience. I'm passionate about creating software that makes a difference and always eager to learn new technologies.
 
 ## 🔭 Current Project
-I'm currently developing an application to predict future gas prices. Here's a brief overview:
-
-- [Backend - Spring Boot](https://github.com/JanoschA/gasprice-calculator): This is where all the magic happens. The backend is responsible for fetching and processing data to predict gas prices.
-- [Frontend - Angular](https://github.com/JanoschA/gasprice-calculator-web): The frontend provides a user-friendly interface for users to interact with the application.
-- [Wiki](https://github.com/JanoschA/gasprice-calculator/wiki): Want to know more about the project? The wiki has all the information you need.
-- [Project Board](https://github.com/users/JanoschA/projects/1): Track the progress of the project on the project board.
+TODO
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
@@ -35,7 +30,4 @@ I'm currently developing an application to predict future gas prices. Here's a b
 </a>
 
 ## 📫 Get in Touch
-I'm always open to new opportunities and collaborations. Feel free to reach out to me on [Imprint](https://gasprice-calculator.com/#/imprint).
-
-### Legal Notes
-[Imprint](https://gasprice-calculator.com/#/imprint)
+I'm always open to new opportunities and collaborations.
